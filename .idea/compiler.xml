@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="PT2021_302210_Paula_Costea_Assignment_2" />
+        <module name="QueuesSimulator" />
       </profile>
     </annotationProcessing>
   </component>
